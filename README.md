@@ -125,14 +125,9 @@ Calabrese
 
 📍 Regional Franchises: Can benchmark performance for planning or training
 
-📸 Screenshots / Demo
-[You can add your dashboard screenshots here](https://github.com/santosh-datahub/Pizza_sales/blob/main/Screenshot%20HOME%20.png).
-https://github.com/santosh-datahub/Pizza_sales/blob/main/Screenshot%20WORST%20SALES.png
+### 6. Screenshots / Demos
 
-Paste your images in your GitHub repo (e.g., inside /images folder), then use this Markdown format:
+Show what the dashboard looks like.
 
-markdown
-Copy
-Edit
-![Dashboard Page 1](https://github.com/your-username/your-repo-name/blob/main/images/dashboard1.png)
-![Dashboard Page 2](https://github.com/your-username/your-repo-name/blob/main/images/dashboard2.png)
+- ![Home Dashboard](https://github.com/santosh-datahub/Pizza_sales/blob/main/Screenshot%20HOME%20.png)
+- ![Worst Sales Dashboard](https://github.com/santosh-datahub/Pizza_sales/blob/main/Screenshot%20WORST%20SALES.png)
