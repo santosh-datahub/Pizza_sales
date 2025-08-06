@@ -7,18 +7,15 @@ A dynamic, interactive Power BI dashboard that provides in-depth insights into p
 ### 🎯 Short Description / Purpose
 The Pizza Sales Report Dashboard helps analyze pizza sales across multiple metrics such as revenue, order quantity, category, and size. Designed for business owners and analysts, it offers a complete view of product performance, customer preferences, and time-based trends to drive smarter decisions.
 
- ### 🧰 Tech Stack
+### 🧰 Tech Stack
 The dashboard was developed using the following tools and technologies:
 
-📊 Power BI Desktop – For building interactive and responsive data visuals
-
-📂 Power Query – For cleaning, shaping, and transforming raw data
-
-🧠 DAX (Data Analysis Expressions) – For calculated fields, KPIs, and custom logic
-
-🧩 Data Modeling – Creating relationships between tables (orders, products, sizes, categories)
-
-📁 File Format – .pbix (Power BI), and .png (for visuals/snapshots)
+📊 Power BI Desktop – For building interactive and responsive data visuals  
+🟧 Power Query – For cleaning, shaping, and transforming raw data  
+🧠 DAX (Data Analysis Expressions) – For calculated fields, KPIs, and custom logic  
+🧩 Data Modeling – Creating relationships between tables (orders, products, sizes, categories)  
+🗃️ File Format – .pbix (Power BI), and .png (for visuals/snapshots)  
+🛢️ SQL – For querying and extracting data from databases before importing to Power BI
 
  ### 📦 Data Source
 Source: Internal pizza sales transaction dataset
